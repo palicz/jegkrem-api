@@ -35,4 +35,11 @@
 ## [Itt találod a Változtatásokat [changelog]](https://github.com/palicz/jegkrem-api/blob/main/changelog.md)
 ## [Itt találod a Gyakori kérdéseket [faq]](https://github.com/palicz/jegkrem-api/blob/main/faq.md)
 
+
+> Problémába ütköztél, vagy esetleg kérdésed lenne?
+> Mielőtt pánikba esetten felvennéd velem a kapcsolatot, először nézd meg a Gyakori kérdések-et. Lehet már meg is válaszoltam a kérdésed.
+
+>Kontakt: [Steam](https://steamcommunity.com/id/insanezen/)
+
+
 ### ***Jelszó: zenzty***
