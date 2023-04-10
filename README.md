@@ -31,4 +31,7 @@
    - Ne feledd, hogy egyes játékok továbbra sem működnek (*pl. Serious Sam HD: TFE/TSE*), ha a vártnál több egyéni ellenőrzést végeznek.
 - Egyes játékok támogatják az automatikus DLC-feloldást, így beírhatod: ***unlockall = true***, és minden DLC fel lesz oldva.
 
+
+## [Changelog](https://github.com/palicz/jegkrem-api/blob/main/changelog.md)
+
 ### ***Jelszó: zenzty***
