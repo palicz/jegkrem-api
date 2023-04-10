@@ -1,5 +1,7 @@
 # JegkremAPI - DLC Unlocker (v4.5.0.0)
 
+> ### [!]  jegkrem_api.ini átnevezve -> cream_api.ini [!]
+
 ## Jellemzők:
 
 - Lehetőség az ***összes DLC feloldására*** legális megvásárolt/meglévő játék esetében
