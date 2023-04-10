@@ -32,6 +32,7 @@
 - Egyes játékok támogatják az automatikus DLC-feloldást, így beírhatod: ***unlockall = true***, és minden DLC fel lesz oldva.
 
 
-## [Changelog](https://github.com/palicz/jegkrem-api/blob/main/changelog.md)
+## [Itt találod a Változtatásokat [changelog]](https://github.com/palicz/jegkrem-api/blob/main/changelog.md)
+## [Itt találod a Gyakori kérdéseket [faq]](https://github.com/palicz/jegkrem-api/blob/main/faq.md)
 
 ### ***Jelszó: zenzty***
